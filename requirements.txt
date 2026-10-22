@@ -1,0 +1,10 @@
+anthropic
+python-dotenv
+requests
+pytest-html
+dotenv
+playwright
+pytest
+pytest-playwright
+pytest-html
+allure-pytest

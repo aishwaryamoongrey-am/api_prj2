@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pyo
+/reports/
+/.bash_history
+/.lesshst
+/.cache/
+/.copilot/
+/.vscode-server/
